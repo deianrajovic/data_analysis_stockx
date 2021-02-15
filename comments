@@ -1,19 +1,7 @@
-To Do: Overview, Data Cleaning, Exploratory Data Analysis, Data Visualization, Conclusion
-Doing:
+To Do: Overview, Exploratory Data Analysis, Data Visualization, Conclusion
+Doing: Data Cleaning
 Done:
 ------------------------------------------------------------------------------------------
 
 Deian: First Week Data Cleaning.
-Deian: 
-# Downloading the csv file from your GitHub account
-
-url = "https://raw.githubusercontent.com/deianrajovic/data_vis_it/main/istat-cloudcomputing.csv?token=ARKUPYYVYEJH6UYKDLLMDQTAFLZJQ" # Make sure the url is the raw version of the file on GitHub
-download = requests.get(url).content
-
-# Reading the downloaded content and turning it into a pandas dataframe
-
-df = pd.read_csv(io.StringIO(download.decode('utf-8')))
-
-# Printing out the first 5 rows of the dataframe
-
-df.head()
+Deian: One dataframe for each year (df_2010, df_2011, ...)
