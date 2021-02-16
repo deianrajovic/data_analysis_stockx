@@ -18,3 +18,5 @@ Andrea: Deleting ATECO column. We can use the NACE 2007, which is the european e
         Then, I'm going to sort the column 'value' and confront the lowest value in the output with the lowest value showed in the istat site.
         By doing so, I think we can find information on how to interpret all the codes that should refer to each type of industry.
         I've tried to directly search them on google and in ATECO's documents but I didn't find anything.
+        
+        I think we can use https://colab.research.google.com/ to share and edit the notebook. It can also be linked to GitHub.
