@@ -24,3 +24,4 @@ Andrea: Deleting ATECO column. We can use the NACE 2007, which is the european e
 Feb 17 2021
 Andrea: Use this link to edit the notebook  https://colab.research.google.com/drive/1TQJ78tyNCffee54j8D4hlT-_MQ5nwOYe?usp=sharing
         It takes the CSV from my google drive but you should not have any problem
+        Further comments has been insert inside the notebook.
