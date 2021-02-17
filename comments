@@ -20,3 +20,7 @@ Andrea: Deleting ATECO column. We can use the NACE 2007, which is the european e
         I've tried to directly search them on google and in ATECO's documents but I didn't find anything.
         
         I think we can use https://colab.research.google.com/ to share and edit the notebook. It can also be linked to GitHub.
+        
+Feb 17 2021
+Andrea: Use this link to edit the notebook  https://colab.research.google.com/drive/1TQJ78tyNCffee54j8D4hlT-_MQ5nwOYe?usp=sharing
+        It takes the CSV from my google drive but you should not have any problem
