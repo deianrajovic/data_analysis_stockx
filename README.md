@@ -1,2 +1,3 @@
-# Data Visualization Project - Cloud Computing in Italian Companies
+# Data Analysis Project - Stockx 
+
 
